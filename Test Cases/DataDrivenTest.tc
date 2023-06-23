@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bf9b293-72d1-4d15-a1f0-89194de0ffaf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73424796-ccfe-452e-820f-9d90f47a37f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nabila'</defaultValue>
+      <description></description>
+      <id>73424796-ccfe-452e-820f-9d90f47a37f2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
